@@ -1,0 +1,106 @@
+{
+ "employees": 100000,
+ "payslips": 2003080,
+ "stats": {
+  "ni_annual_div": {
+   "Payslips": 2003080,
+   "Differ": 1759156,
+   "SumAbsPence": 5555553,
+   "MaxAbs": 5,
+   "AnnualDiffer": 93326,
+   "Annual1": 13230,
+   "Employees": 100000,
+   "MaxAnnualAbs": 156,
+   "NetSigned": 5555553
+  },
+  "ni_half_up": {
+   "Payslips": 2003080,
+   "Differ": 10082,
+   "SumAbsPence": 10082,
+   "MaxAbs": 1,
+   "AnnualDiffer": 2874,
+   "Annual1": 0,
+   "Employees": 100000,
+   "MaxAnnualAbs": 52,
+   "NetSigned": 10082
+  },
+  "sl_round_pence": {
+   "Payslips": 2003080,
+   "Differ": 321201,
+   "SumAbsPence": 15961017,
+   "MaxAbs": 99,
+   "AnnualDiffer": 17220,
+   "Annual1": 15590,
+   "Employees": 100000,
+   "MaxAnnualAbs": 5148,
+   "NetSigned": 15961017
+  },
+  "tax_float": {
+   "Payslips": 2003080,
+   "Differ": 4879,
+   "SumAbsPence": 102764,
+   "MaxAbs": 48,
+   "AnnualDiffer": 114,
+   "Annual1": 0,
+   "Employees": 100000,
+   "MaxAnnualAbs": 42,
+   "NetSigned": -2390
+  },
+  "tax_month1": {
+   "Payslips": 2003080,
+   "Differ": 1008294,
+   "SumAbsPence": 238294720,
+   "MaxAbs": 73946,
+   "AnnualDiffer": 91097,
+   "Annual1": 72929,
+   "Employees": 100000,
+   "MaxAnnualAbs": 74366,
+   "NetSigned": 192537378
+  },
+  "tax_no_quotient": {
+   "Payslips": 2003080,
+   "Differ": 397355,
+   "SumAbsPence": 10463467,
+   "MaxAbs": 48,
+   "AnnualDiffer": 17989,
+   "Annual1": 23,
+   "Employees": 100000,
+   "MaxAnnualAbs": 2080,
+   "NetSigned": 480823
+  },
+  "tax_no_t_floor": {
+   "Payslips": 2003080,
+   "Differ": 1815842,
+   "SumAbsPence": 17175293,
+   "MaxAbs": 48,
+   "AnnualDiffer": 89366,
+   "Annual1": 2843,
+   "Employees": 100000,
+   "MaxAnnualAbs": 2236,
+   "NetSigned": 2110783
+  },
+  "tax_round_near": {
+   "Payslips": 2003080,
+   "Differ": 280499,
+   "SumAbsPence": 378791,
+   "MaxAbs": 49,
+   "AnnualDiffer": 1261,
+   "Annual1": 0,
+   "Employees": 100000,
+   "MaxAnnualAbs": 52,
+   "NetSigned": 10195
+  },
+  "tax_simple_bands": {
+   "Payslips": 2003080,
+   "Differ": 11882,
+   "SumAbsPence": 109908,
+   "MaxAbs": 48,
+   "AnnualDiffer": 115,
+   "Annual1": 0,
+   "Employees": 100000,
+   "MaxAnnualAbs": 42,
+   "NetSigned": -2392
+  }
+ },
+ "tax_year": "2026-27"
+}

@@ -1,0 +1,10 @@
+/shortcuts
+results/run.log
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+results/annual.csv

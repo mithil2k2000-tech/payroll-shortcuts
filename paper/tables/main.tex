@@ -1,0 +1,22 @@
+\begin{table*}[t]
+\centering
+\caption{Differences from HMRC's exact method for 100,000 employees and 2,003,080 payslips over tax year 2026-27. Each shortcut changes one rule. Net is the sum over all employees of (shortcut $-$ exact) annual deductions; positive means over-deduction.}
+\label{tab:main}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{p{6.2cm}rrrrrr}
+\toprule
+Shortcut & Slips $\neq$ & Max/slip & Staff $\neq$ & Staff $\geq$\pounds1 & Max/year & Net \\
+\midrule
+PAYE: Exact algorithm in binary floating point & 0.24\% & \pounds0.48 & 0.11\% & 0.00\% & \pounds0.42 & $-$\pounds24 \\
+PAYE: Band limits pro-rated without truncation or ceiling & 0.59\% & \pounds0.48 & 0.11\% & 0.00\% & \pounds0.42 & $-$\pounds24 \\
+PAYE: Taxable pay not rounded down to whole pounds & 90.65\% & \pounds0.48 & 89.37\% & 2.84\% & \pounds22.36 & \pounds21,108 \\
+PAYE: Free pay without the quotient method & 19.84\% & \pounds0.48 & 17.99\% & 0.02\% & \pounds20.80 & \pounds4,808 \\
+PAYE: Tax rounded to nearest penny, not down & 14.00\% & \pounds0.49 & 1.26\% & 0.00\% & \pounds0.52 & \pounds102 \\
+PAYE: Week 1/Month 1 basis for everyone & 50.34\% & \pounds739.46 & 91.10\% & 72.93\% & \pounds743.66 & \pounds1,925,374 \\
+NI: Half a penny rounded up, not down & 0.50\% & \pounds0.01 & 2.87\% & 0.00\% & \pounds0.52 & \pounds101 \\
+NI: Thresholds as annual/periods, not HMRC's figures & 87.82\% & \pounds0.05 & 93.33\% & 13.23\% & \pounds1.56 & \pounds55,556 \\
+Student loan: Rounded down to the penny, not the pound & 16.04\% & \pounds0.99 & 17.22\% & 15.59\% & \pounds51.48 & \pounds159,610 \\
+\bottomrule
+\end{tabular}
+\end{table*}

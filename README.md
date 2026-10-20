@@ -1,8 +1,10 @@
 # Pennies and pounds: UK payroll shortcuts vs HMRC's exact method
 
+📄 **Paper (PDF): [payroll-shortcuts.pdf](payroll-shortcuts.pdf)**
+
 Differential testing of nine common simplifications of UK payroll arithmetic against an exact reference
 ([uk-payroll-engine](https://github.com/mithil2k2000-tech/uk-payroll-engine)), over 100,000 synthetic employees and
-2,003,080 payslips in tax year 2026–27. Paper: [`paper/main.pdf`](paper/main.pdf).
+2,003,080 payslips in tax year 2026–27.
 
 | Shortcut | Payslips differing | Employees ≥ £1 out at year end | Net over-deduction |
 |---|---|---|---|

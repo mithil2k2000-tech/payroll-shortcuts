@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Pennies and Pounds: How Common Simplifications of UK Payroll Arithmetic Diverge from HMRC's Exact Method"
+type: software
+authors:
+  - family-names: Nagabathula
+    given-names: Mithil
+    affiliation: University of East London
+    email: mithilnishu2000@gmail.com
+repository-code: "https://github.com/mithil2k2000-tech/payroll-shortcuts"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-21"
+keywords:
+  - "payroll"
+  - "differential testing"
+  - "floating point"
+  - "software correctness"
+preferred-citation:
+  type: report
+  title: "Pennies and Pounds: How Common Simplifications of UK Payroll Arithmetic Diverge from HMRC's Exact Method"
+  authors:
+    - family-names: Nagabathula
+      given-names: Mithil
+      affiliation: University of East London
+  institution:
+    name: University of East London
+  year: 2026
+  month: 10
+  url: "https://github.com/mithil2k2000-tech/payroll-shortcuts/blob/main/payroll-shortcuts.pdf"
+  notes: "Preprint; not peer reviewed."

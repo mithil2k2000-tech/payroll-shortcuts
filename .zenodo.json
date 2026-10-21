@@ -1,0 +1,21 @@
+{
+  "title": "Pennies and Pounds: How Common Simplifications of UK Payroll Arithmetic Diverge from HMRC's Exact Method",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Preprint, code, data and results for: Pennies and Pounds: How Common Simplifications of UK Payroll Arithmetic Diverge from HMRC's Exact Method. Not peer reviewed. The PDF is payroll-shortcuts.pdf in this repository.",
+  "creators": [
+    {
+      "name": "Nagabathula, Mithil",
+      "affiliation": "University of East London"
+    }
+  ],
+  "keywords": [
+    "payroll",
+    "differential testing",
+    "floating point",
+    "software correctness"
+  ],
+  "license": "MIT",
+  "language": "eng",
+  "access_right": "open"
+}

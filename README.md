@@ -1,6 +1,6 @@
 # Pennies and pounds: UK payroll shortcuts vs HMRC's exact method
 
-📄 **Paper (PDF): [payroll-shortcuts.pdf](payroll-shortcuts.pdf)**
+📄 **Paper (PDF): [payroll-shortcuts.pdf](payroll-shortcuts.pdf)** · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23593024.svg)](https://doi.org/10.5281/zenodo.23593024)
 
 Differential testing of nine common simplifications of UK payroll arithmetic against an exact reference
 ([uk-payroll-engine](https://github.com/mithil2k2000-tech/uk-payroll-engine)), over 100,000 synthetic employees and
